@@ -1,0 +1,19 @@
+
+# Build outputs
+/build/
+/build-*/
+/cmake-build-*/
+
+# Local experiment outputs
+/results/
+*.log
+
+# Python cache and environments
+__pycache__/
+*.pyc
+/.venv/
+/venv/
+
+# Editor settings
+/.vscode/
+/.idea/
